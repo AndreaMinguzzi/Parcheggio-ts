@@ -5,7 +5,7 @@ export class MainMenu{
         let scelta: number;
         let controller= new ParcheggiController();
 
-        console.log('GESTIONE PARCHEGGIO');
+        console.log('GESTIONE PARCHEGGIO ACME.INC');
         console.log('-------------------');
         console.log('');
         console.log('1 - Elenco veicoli');
