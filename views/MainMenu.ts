@@ -25,7 +25,7 @@ export class MainMenu{
                 break;
             }
             case 2: {
-                console.log('Numero veicoli presenti');
+                console.log('Sono presenti ' + controller.getNumber() + ' veicoli');
                 break;
             }
             case 9: {
