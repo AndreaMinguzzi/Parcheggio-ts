@@ -19,4 +19,7 @@ export class ParcheggiController{
         
     }
 
+    addVeicolo(targa:string):Boolean{
+        return true;
+    }
 }
